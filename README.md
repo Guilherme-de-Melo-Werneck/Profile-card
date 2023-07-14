@@ -1,6 +1,6 @@
 # PROFILE-CARD :computer:
 
-# Sobre o projeto
+# Sobre o projeto:
 Olá! Bem-vindo ao meu profile-card! Aqui você encontrará informações sobre mim, 
 minha paixão e meu trabalho. Sinta-se à vontade para explorar e conhecer um pouco mais sobre quem eu sou e o que eu faço.
 Esse profile é uma forma simplificada pra me conhecer.
