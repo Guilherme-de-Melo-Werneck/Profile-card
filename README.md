@@ -41,3 +41,10 @@ git clone https://github.com/Guilherme-de-Melo-Werneck/Profile-card.git
 # clica em abrir com e abre com o navegador que usa
 
 ```
+<br>
+
+# Autor:
+
+Guilherme de Melo Werneck
+
+https://www.linkedin.com/in/guilherme-werneck-96a276260/
