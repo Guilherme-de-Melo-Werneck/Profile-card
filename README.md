@@ -1,50 +1,85 @@
-# PROFILE-CARD :computer:
+<!-- README.md (em HTML) -->
+<div align="center">
 
-# Sobre o projeto:
-Olá! Bem-vindo ao meu profile-card! Aqui você encontrará informações sobre mim, 
-minha paixão e meu trabalho. Sinta-se à vontade para explorar e conhecer um pouco mais sobre quem eu sou e o que eu faço.
-Esse profile é uma forma simplificada pra me conhecer.
+  <h1>💻 Profile Card</h1>
 
-<br>
+  <p>
+    Olá! Bem-vindo ao meu <strong>Profile Card</strong> 👋<br/>
+    Aqui você encontra, de forma simples e direta, um pouco sobre mim, minha paixão por tecnologia e alguns detalhes do meu trabalho.
+  </p>
 
-## Desktop:
-![Web](https://github.com/Guilherme-de-Melo-Werneck/Jogo-adivinha/assets/110049442/bef40a59-f325-4670-bf3d-8b50a0f3a419)
+  <p>
+    <a href="https://www.linkedin.com/in/guilherme-werneck-96a276260/" target="_blank">🔗 LinkedIn</a>
+    &nbsp;•&nbsp;
+    <a href="https://github.com/Guilherme-de-Melo-Werneck/Profile-card" target="_blank">📦 Repositório</a>
+  </p>
 
-<br>
+  <br/>
 
-## Navegação do profile:
-![Navegação](https://github.com/Guilherme-de-Melo-Werneck/Jogo-adivinha/assets/110049442/e42d9980-1a14-405b-bf53-fc7ff013a2be)
+  <h2>🖥️ Preview (Desktop)</h2>
+  <img
+    src="https://github.com/Guilherme-de-Melo-Werneck/Jogo-adivinha/assets/110049442/bef40a59-f325-4670-bf3d-8b50a0f3a419"
+    alt="Preview do Profile Card (Desktop)"
+    width="900"
+  />
 
-<br>
+  <br/><br/>
 
-# Tecnologias utilizadas:
+  <h2>🧭 Navegação do Profile</h2>
+  <img
+    src="https://github.com/Guilherme-de-Melo-Werneck/Jogo-adivinha/assets/110049442/e42d9980-1a14-405b-bf53-fc7ff013a2be"
+    alt="Navegação do Profile Card"
+    width="900"
+  />
 
-## Front end
-- HTML
-- CSS
-- JAVA SCRIPT
+</div>
 
-<br>
+<br/>
 
-# Como executar o projeto:
+<hr/>
 
-```bash
-# clonar repositório
-git clone https://github.com/Guilherme-de-Melo-Werneck/Profile-card.git
+<h2>🚀 Tecnologias utilizadas</h2>
 
-# clica com botão direito no arquivo index.html
+<h3>🎨 Front-end</h3>
+<ul>
+  <li><strong>HTML</strong></li>
+  <li><strong>CSS</strong></li>
+  <li><strong>JavaScript</strong></li>
+</ul>
 
-# clica em Reveal in file explorer(Revelar no explorador de arquivos)
+<br/>
 
-# clica com botão direito na pasta index
+<hr/>
 
-# clica em abrir com e abre com o navegador que usa
+<h2>⚙️ Como executar o projeto</h2>
 
-```
-<br>
+<ol>
+  <li>
+    <strong>Clone o repositório</strong>:
+    <pre><code>git clone https://github.com/Guilherme-de-Melo-Werneck/Profile-card.git</code></pre>
+  </li>
 
-# Autor:
+  <li>
+    Abra a pasta do projeto no seu computador.
+  </li>
 
-Guilherme de Melo Werneck
+  <li>
+    Encontre o arquivo <strong>index.html</strong>.
+  </li>
 
-https://www.linkedin.com/in/guilherme-werneck-96a276260/
+  <li>
+    Clique com o botão direito no <strong>index.html</strong> e selecione <strong>“Abrir com”</strong> → escolha seu navegador.
+  </li>
+</ol>
+
+<br/>
+
+<hr/>
+
+<h2>👤 Autor</h2>
+<p>
+  <strong>Guilherme de Melo Werneck</strong><br/>
+  <a href="https://www.linkedin.com/in/guilherme-werneck-96a276260/" target="_blank">
+    https://www.linkedin.com/in/guilherme-werneck-96a276260/
+  </a>
+</p>
